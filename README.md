@@ -21,7 +21,7 @@ An embedded video
 --How to Use This Project
 
 Clone the repository:
-
+https://github.com/ozturkbatuhans/First-Website.git
 
 
 Open the file opdracht1.2.html in a web browser.
